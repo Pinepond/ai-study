@@ -1,3 +1,7 @@
 langchain
 langchain-openai
 streamlit
+pypdf
+langchain_community
+python-dotenv
+langchain-chroma
